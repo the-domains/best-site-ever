@@ -4,7 +4,7 @@
         <description><![CDATA[Best Site Ever]]></description>
         <link>https://thegrid.ai/best-site-ever/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 16:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 16:36:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/best-site-ever/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello visitor,]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/best-site-ever/a5b79cc7-8e64-40d4-96d4-5f38faa4642a/index.html</link>
             <guid isPermaLink="false">a5b79cc7-8e64-40d4-96d4-5f38faa4642a</guid>
             <pubDate>Fri, 11 Dec 2015 16:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's a new post just for you.]]></title>
+            <description><![CDATA[<h1>Here's a new post just for you.</h1>]]></description>
+            <link>https://thegrid.ai/best-site-ever/heres-a-new-post-just-for-you/index.html</link>
+            <guid isPermaLink="false">13722b39-4560-4e3e-b735-3e421bdb085c</guid>
+            <pubDate>Fri, 11 Dec 2015 16:36:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
