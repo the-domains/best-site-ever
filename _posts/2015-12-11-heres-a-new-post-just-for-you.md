@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-11T18:00:21.103Z'
-dateModified: '2015-12-11T18:00:18.208Z'
+datePublished: '2015-12-11T20:33:15.103Z'
+dateModified: '2015-12-11T20:33:07.967Z'
 title: "Here's a new post just for you."
 author: []
 sourcePath: _posts/2015-12-11-heres-a-new-post-just-for-you.md
