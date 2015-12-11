@@ -1,6 +1,6 @@
 name: Best Site Ever
 favicon: null
-layout_spectrum: 0.48698
+layout_spectrum: 1
 typography_spectrum: 0.2618
 title: Best Site Ever
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff2000'
     - '#000000'
     - '#ff0000'
-  brandStrength: 1
-  lightness: 0.5
+  brandStrength: 0
+  lightness: 1
   saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
