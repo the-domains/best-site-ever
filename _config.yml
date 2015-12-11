@@ -1,7 +1,7 @@
 name: Best Site Ever
 favicon: null
-layout_spectrum: 0.25475
-typography_spectrum: 0.2435
+layout_spectrum: 0.48698
+typography_spectrum: 0.2618
 title: Best Site Ever
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#f15c22'
-    - '#efb39c'
-    - '#201e1f'
-    - '#8b8788'
+    - '#2c2c2c'
+    - '#ff3300'
+    - '#ff2000'
+    - '#000000'
+    - '#ff0000'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
