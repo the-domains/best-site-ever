@@ -2,6 +2,7 @@ name: Best Site Ever
 favicon: null
 layout_spectrum: 0.59835134469904
 typography_spectrum: 0.7037345920689404
+title: Best Site Ever
 cta:
   domain: null
   bucket: null
